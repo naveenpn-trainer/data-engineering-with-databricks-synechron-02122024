@@ -1,0 +1,25 @@
+DataFrame
+	.display
+	.show
+	.printSchema
+	.select
+	.filter
+	.columns
+	.count
+	.groupBy
+	.sort
+	.withColumn
+	.limit
+	.display
+	.join
+
+from pyspark.sql.functions import lit, col, lower, when, sum, split,array_contains
+
+
+Column
+	.alias
+	.isin
+	.when
+	.otherwise
+	.desc
+	
