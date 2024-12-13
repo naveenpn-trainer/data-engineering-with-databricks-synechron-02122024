@@ -1,0 +1,8 @@
+customer_id,customer_name,region,loyalty_points
+C001,Alice,North,200
+C002,Bob,South,150
+C003,Charlie,West,300
+Diana,East,400
+C005,Eve,North,250
+,Frank,South,100
+C007,Grace,West,350

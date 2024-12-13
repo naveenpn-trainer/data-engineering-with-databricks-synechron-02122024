@@ -1,0 +1,4 @@
+sale_id,customer_id,product_id,quantity,price,sale_date
+S005,C001,P002,5,500,
+S006,C003,P001,4,1000,2019-12-31
+S007,C001,P003,0,200,2024-11-21

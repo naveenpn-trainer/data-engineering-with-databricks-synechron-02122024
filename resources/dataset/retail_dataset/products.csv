@@ -1,0 +1,8 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,1000
+P002,Phone,Electronics,500
+P003,Table,Furniture,200
+P004,Chair,Furniture,0
+P005,Headphones,Electronics,-50
+P006,Monitor,Electronics,150
+P007,Keyboard,Electronics,None
